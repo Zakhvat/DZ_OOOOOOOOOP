@@ -219,18 +219,3 @@ if __name__ == "__main__":
     mape_train = model_manual.mape_loss(y_manual, model_manual.predict(X_manual))
     print(f"Точность модели на обучающих данных: {100 - mape_train:.2f}%")
     print(f"Средняя ошибка: {mape_train:.2f}%")
-#ну пожалуйста всё заработай....
-#я моляю....
-#Я хочу спать, пожалуйста заработай....
-#Я умоляю, можно лечь спать...
-# ятожеЗАСЫПАЮ
-print("Привет")
-
-
-print('AAAAAAAAAAAAAAAAAA')
-
-
-
-print("Походу получилось ура")
-
-#fdsjsdjfjsdfjsf
